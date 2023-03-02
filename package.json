@@ -34,7 +34,7 @@
     "generator"
   ],
   "peerDependencies": {
-    "pdfjs-dist": "2.3.200"
+    "pdfjs-dist": "3.4.120"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.14.3",
